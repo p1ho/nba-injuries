@@ -1,6 +1,6 @@
 # NBA Injuries
 
-- This is the repository that receives the push from [Travis CI](https://travis-ci.com/) by building [NBA Injury Scraper](https://github.com/p1ho/nba-injuries).
+- This is the repository that receives the push from [Travis CI](https://travis-ci.com/p1ho/nba-injury-scraper) by building [NBA Injury Scraper](https://github.com/p1ho/nba-injury-scraper).
 
 - I do not claim ownership for any data here, only the effort of reprocessing webpage data collected from scraping publicly available data from [Fox Sports](https://www.foxsports.com/nba/teams).
 
